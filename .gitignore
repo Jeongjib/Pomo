@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+
+# Xcode build output
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+Package.resolved
+.swiftpm/
+
+# Build artifacts (use GitHub Releases for distribution)
+*.app
+*.zip
+*.dmg
+
+# Archives
+*.xcarchive

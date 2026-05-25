@@ -88,7 +88,7 @@
 ```bash
 git clone https://github.com/yourusername/Pomo.git
 cd Pomo
-open HeadPosePoC.xcodeproj
+open Pomo.xcodeproj
 ```
 
 Xcode에서 ▶️ Run.

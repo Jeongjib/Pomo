@@ -18,7 +18,7 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
 }
 
 @main
-struct HeadPosePoCApp: App {
+struct PomoApp: App {
     @NSApplicationDelegateAdaptor(AppDelegate.self) private var appDelegate
     @StateObject private var camera: CameraManager
     @StateObject private var pomodoro: PomodoroManager
